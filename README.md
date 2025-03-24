@@ -1,4 +1,4 @@
-# Splunk / ADDC Lab
+# Splunk & Active Directory Lab
 
 ## Objective
 
