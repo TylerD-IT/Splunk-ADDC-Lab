@@ -38,7 +38,7 @@ The Splunk & Active Directory project aimed to establish a controlled environmen
 <div>
 <img src="https://i.imgur.com/X9VzTIN.png" />
 
- **Ref 1: Network Diagram**
+**Ref 1: Network Diagram**
 
   
 </div>
