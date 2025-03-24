@@ -1,4 +1,5 @@
 # Splunk & Active Directory Lab
+<br>
 
 ## Objective
 
@@ -29,6 +30,8 @@ The Splunk & Active Directory project aimed to establish a controlled environmen
 - Sysmon – Windows system service and driver that logs detailed system activity, including process creation, network connections, and file modifications.
 
 - VirtualBox – Open-source virtualization software that allows users to run multiple operating systems on a single machine.
+
+<br>
 
 ## Steps
 <br> 
