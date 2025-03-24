@@ -31,9 +31,14 @@ The Splunk & Active Directory project aimed to establish a controlled environmen
 - VirtualBox – Open-source virtualization software that allows users to run multiple operating systems on a single machine.
 
 ## Steps
-
-
-#### **Create Network Map and Include Machine Names / IP Addresses**
-
-
+<br> 
+<div>
 <img src="https://i.imgur.com/X9VzTIN.png" />
+
+ **Ref 1: Network Diagram**
+
+  
+</div>
+
+
+
