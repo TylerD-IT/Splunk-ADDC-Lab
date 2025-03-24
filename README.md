@@ -1,4 +1,4 @@
-# Active Directory Lab
+# Splunk / ADDC Lab
 
 ## Objective
 [Brief Objective - Remove this afterwards]
