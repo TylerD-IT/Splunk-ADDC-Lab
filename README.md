@@ -31,4 +31,9 @@ The Splunk / ADDC project aimed to establish a controlled environment for simula
 - VirtualBox – Open-source virtualization software that allows users to run multiple operating systems on a single machine.
 
 ## Steps
-[<blockquote class="imgur-embed-pub" lang="en" data-id="a/iQNhtZ8"  ><a href="//imgur.com/a/iQNhtZ8">AD Project: Network Diagram</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://imgur.com/a/ad-project-network-diagram-iQNhtZ8)
+
+
+#### **Create Network Map and Include Machine Names / IP Addresses**
+
+
+<img src="https://i.imgur.com/X9VzTIN.png" />
