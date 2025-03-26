@@ -68,5 +68,6 @@ Create Network Diagram (Include IP Addresses / Names for Machines)
 
 ## Video
 
-
-
+[![Watch the video](https://img.youtube.com/vi/G3BbQWCXSFU/0.jpg)](https://www.youtube.com/watch?v=G3BbQWCXSFU)
+<br>
+[![Watch the video](https://img.youtube.com/vi/rfvxSoyqAwo/0.jpg)](https://www.youtube.com/watch?v=rfvxSoyqAwo)
