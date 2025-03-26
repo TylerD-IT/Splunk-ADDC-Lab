@@ -3,7 +3,7 @@
 
 ## Objective
 
-The Splunk & Active Directory project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Splunk project / lab aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
 
 ### Skills Learned
 
@@ -35,39 +35,15 @@ The Splunk & Active Directory project aimed to establish a controlled environmen
 
 <br>
 
-## Steps
+## Network Diagram
 <br> 
 <div>
-Create Network Diagram (Include IP Addresses / Names for Machines)
-  <br>
    <img src="https://i.imgur.com/X9VzTIN.png" />
 
-**Ref 1: Network Diagram**
-
-1) Install VMs listed in Network Diagram using VirtualBox
-2) Download Splunk and install on Ubuntu Server
-3) Test that the Splunk Server is working by accesing it via the Windows 10 VM. Use a Web Browser and the server's static IP Address with port 8000. If it was correctly setup, it will be reachable. 
-4) Install the Splunk Forwarder on both the ADDC Server and Windows 10 VM.
-5) Configure the inputs.conf file for the local folder in the Splunk Universal Forwarder. This will capture specific values that will be sent to the Splunk Server.
-6) Install Sysmon on both the ADDC Server and Windows 10 VM. This will log detailed system activity like process creation, network connections and file modifications.
-7) Create a Splunk index that corresponds with the index created in the inputs.conf file for ADDC and Windows 10 VMs.
-8) Install ADDC, create domain controller, setup group, OUs, and users in ADUC.
-9) Connect Windows 10 VM to Domain.
-10) Configure Static IP for Kali Linux VM.
-11) Add ADUC user's password(s) to wordlist.txt in Kali Linux Box.
-12) Setup RDP on Windows 10 Machine and add ADUC users to Remote Desktop Users.
-13) Use Kali Linux VM and Hydra to launch a brute force attack against Windows 10 VM using RDP protocol.
-14) View Telemetry in Splunk and look for the 4625 event ID that indicates the failed login attempts from the brute force attack.
-15) View Telemtry in Splunk and look for the 4624 event ID that indicates the successful login from the brute force attack.
-16) Install Atomic Red Team on Windows 10 VM using Powershell.
-17) Run MITRE ATT&CK Technique ID tests to replicate attacks on Windows 10 VM.
-18) Make sure the technique ID tests are being logged in Splunk.
-19) If the tests aren't being logged it would indicate a gap in your system security.
-  
-</div>
-
-## Video
+## Video Walkthrough
 
 [![Watch the video](https://img.youtube.com/vi/G3BbQWCXSFU/0.jpg)](https://www.youtube.com/watch?v=G3BbQWCXSFU)
 <br>
 [![Watch the video](https://img.youtube.com/vi/rfvxSoyqAwo/0.jpg)](https://www.youtube.com/watch?v=rfvxSoyqAwo)
+<br>
+[![Watch the video](https://img.youtube.com/vi/z8pBbOGVy3w/0.jpg)](https://www.youtube.com/watch?v=z8pBbOGVy3w)
