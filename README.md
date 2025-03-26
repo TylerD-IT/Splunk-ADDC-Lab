@@ -1,4 +1,4 @@
-# Splunk & Active Directory Lab
+# Splunk Lab
 <br>
 
 ## Objective
